@@ -1,2 +1,2 @@
-\# Testes usando GIT
+# Testes usando GIT
 
