@@ -5,5 +5,10 @@ Um espaço onde compartilho estudos sobre git e versionamento.
 
 A site to share my study about git and versioning.
 
-Esse é um teste adicionando uma nova linha
-This is a tes adding a new line
+Esse é um teste adicionando uma nova linha.
+
+This is a tes adding a new line.
+
+Vamos continuar estudando sobre git flow
+
+We are gonna to studing about git flow
